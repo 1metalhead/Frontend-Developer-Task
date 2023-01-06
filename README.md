@@ -21,7 +21,7 @@
 ## Instructions
 
 - All cards (Airquality, Audio etc.,) shown on the design are **Individual Components**.
-- The page is **Not responsive**, so fix any suitalbe resolutions and work on it. (Mention the resolution you used in the readme file)
+- The page is **Not responsive**, so fix any suitable resolutions and work on it. (Mention the resolution you used in the readme file)
 - We are looking the output to be **Pixel perfect** and as close to the design as possible.
 - Use the provided fonts (**Rota/Inter**) and take extra care with font weight choices.
 - Use the provided icons. Use **font-awesome** or **feather icons** if the necessary icons not found in the folder and choose icons that closest match the design.
