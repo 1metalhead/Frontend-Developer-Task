@@ -26,7 +26,7 @@
 - Use the provided fonts (**Rota/Inter**) and take extra care with font weight choices.
 - Use the provided icons. Use **font-awesome** or **feather icons** if the necessary icons not found in the folder and choose icons that closest match the design.
 - It is important you **Study the design carefully** and try to get as close to visual parity as possible, including padding, margins, alignment, font sizes and weights, etc. Where you cannot achieve visual parity please be prepared to identify and explain where and why it cannot be achieved.
-- After completion of the task upload file to Github/Gitlab with Readme file and share us the link for review.
+- After completion of the task please upload the file to Github/Gitlab with a Readme file and share the Link along with a link to your **Linkedin Profile** to [jobs@avmsolutionsuk.com]
 
 ## Extra Credit
 
