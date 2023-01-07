@@ -18,6 +18,10 @@
 
 ![Design](./ui_design_resources/design.png)
 
+## Tech Stack
+
+** Angular **
+
 ## Instructions
 
 - All cards (Airquality, Audio etc.,) shown on the design are **Individual Components**.
