@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-** Angular **
+**Angular**
 
 ## Instructions
 
