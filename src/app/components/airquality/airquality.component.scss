@@ -1,0 +1,50 @@
+.card-container{
+    .val-container{
+        .main-val-container{
+            display: inline-block;
+            .main-val{
+                line-height: 5.5rem;
+                display: block;
+                font-weight: bold;
+                font-family: system-ui;
+                font-size: 4rem;
+                width: 110px;
+                height: 110px;
+                border-radius: 55px;
+                color: #fff;
+                text-align: center;
+                background-color: #6DD0A5;
+            }
+        }
+        .sub-val-container{
+            position: relative;
+            bottom: 0.7rem;
+            left: 1rem;
+            width: 100%;
+            .val-93{
+                border-bottom: 2px solid #e5e5e5;
+                padding-bottom: 8px;
+                margin-bottom: -4px;
+                width: 90%;
+                fa-icon{
+                    color:#6DD0A5;
+                }
+            }
+            .val-61{
+                fa-icon{
+                color:#f9c561;
+                }
+            }
+            .right-val{
+                font-size: 2.5rem;
+                font-weight: bold;
+                font-family: system-ui;
+                color: #999999;
+            }
+        }
+        fa-icon{
+            font-size: 2rem;
+            margin-right: 0.5rem;
+        }
+    }
+}

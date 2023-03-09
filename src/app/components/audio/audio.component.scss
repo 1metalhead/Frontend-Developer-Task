@@ -1,0 +1,41 @@
+.card-container{
+    .card-title{
+        margin-bottom: 2rem;
+        color: #2D2D2D;
+    }
+    .val-container{
+        .main-val-container{
+            display: inline-block;
+            .main-val{
+                font-weight: bold;
+                font-family: system-ui;
+                font-size: 5rem;
+                color: #5448C8;
+            }
+        }
+        .playing-chip{
+            margin-top: 2rem;
+            margin-left: 1rem;
+            span{
+                border-radius: 0.5rem;
+                background: #6DD0A5;
+                color: white;
+                font-family: system-ui;
+                padding: 0.5rem 1rem;
+            }
+        }
+        .total-container{
+            margin-top: 2rem;
+            margin-left: 1rem;
+            font-family: system-ui;
+            color: #999999;
+            .total-text{
+                font-size: 1rem;    
+            }
+            div{
+                font-size: 2rem;
+                font-weight: bold;
+            }
+        }
+    }
+}

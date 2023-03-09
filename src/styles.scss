@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "rota-black";
+    src: url("/assets/fonts/Rota-Black.otf") format("truetype");
+}
+@font-face {
+    font-family: "rota-bold";
+    src: url("/assets/fonts/Rota-Bold.otf") format("truetype");
+}
+@font-face {
+    font-family: "rota-medium";
+    src: url("/assets/fonts/Rota-Medium.otf") format("truetype");
+}
+@font-face {
+    font-family: "rota-regular";
+    src: url("/assets/fonts/Rota-Regular.otf") format("truetype");
+}
+
+.card-container{
+    padding: 1rem;
+    border-radius: 25px;
+    background-color: #ececec;
+    height: 180px;
+    .card-title{
+        margin-bottom: 1rem;
+        font-weight: bold;
+        font-size: 2rem;
+        font-family: system-ui;
+        color: #555555;
+    }
+    .val-container{
+        display: flex;
+    }
+}

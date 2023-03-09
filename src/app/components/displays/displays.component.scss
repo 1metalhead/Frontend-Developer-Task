@@ -1,0 +1,35 @@
+.card-container{
+    .card-title{
+        margin-bottom: 2rem;
+    }
+    .val-container{
+        .main-val-container{
+            display: inline-block;
+            font-family: system-ui;
+            color: #5448C8;
+            font-weight: bold;
+            border-right: 2px solid #e5e5e5;
+            padding-right: 4px;
+            max-height: 90px;
+            .main-val{
+                font-size: 5rem;
+                + span{
+                    font-size: 2rem;
+                }
+            }
+        }
+        .total-container{
+            margin-top: 2rem;
+            margin-left: 1rem;
+            font-family: system-ui;
+            color: #999999;
+            .total-text{
+                font-size: 1rem;    
+            }
+            div{
+                font-size: 2rem;
+                font-weight: bold;
+            }
+        }
+    }
+}

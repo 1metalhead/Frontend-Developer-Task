@@ -1,0 +1,74 @@
+.card-container{
+    .val-container{
+        .main-val-container{
+            display: inline-block;
+            .main-val{
+                line-height: 5.5rem;
+                display: block;
+                font-weight: bold;
+                font-family: system-ui;
+                font-size: 4rem;
+                width: 110px;
+                height: 110px;
+                border-radius: 55px;
+                color: #fff;
+                text-align: center;
+                background-color: #5448C8;
+                span{
+                    position: relative;
+                    top: 2px;
+                    left: 2px;
+                }
+                sub{
+                    font-size: 1rem;
+                    font-weight: 400;
+                    position: relative;
+                    bottom: 13px;
+                    sup{
+                        font-size: 0.5rem;
+                        position: relative;
+                        bottom: 1px
+                    }
+                }
+            }
+        }
+        .sub-val-container{
+            position: relative;
+            bottom: 0.7rem;
+            left: 1rem;
+            width: 100%;
+            .val-93{
+                border-bottom: 2px solid #e5e5e5;
+                padding-bottom: 8px;
+                margin-bottom: -4px;
+                width: 90%;
+            }
+            .val-61{
+                fa-icon{
+                color:#f9c561;
+                }
+            }
+            .right-val{
+                font-size: 2.5rem;
+                font-weight: bold;
+                font-family: system-ui;
+                color: #999999;
+            }
+            img{
+                margin-right: 0.5rem;
+            }
+            sub{
+                font-size: 1rem;
+                font-weight: 400;
+                position: relative;
+                right: 11px;
+                bottom: 9px;
+                sup{
+                    font-size: 0.5rem;
+                    position: relative;
+                    bottom: 1px
+                }
+            }
+        }
+    }
+}
