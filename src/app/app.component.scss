@@ -1,11 +1,16 @@
 .logo-container{
     margin: 4rem auto;
-    width: 20%;
+    width: 15%;
 }
 .cards-container{
+    flex-wrap: wrap;
     >div{
         width: 15%;
+        min-width: 280px;
+        margin-bottom: 1rem;
+        margin-left: 2rem;
     }
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    padding: 0 24rem;
 }
