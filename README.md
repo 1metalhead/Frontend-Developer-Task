@@ -4,11 +4,11 @@
 
 # Notes
 
-Live app hosted at https://1metalhead.github.io/Frontend-Developer-Task/
-Adoptive design implemented
-Developed on screen with resolution **1920 X 1080**
-Rota font was imported but system-ui was used because it was closer to the design
-Font Awesome used for icons
+*Live app hosted at https://1metalhead.github.io/Frontend-Developer-Task/
+*Adoptive design implemented
+*Developed on screen with resolution **1920 X 1080**
+*Rota font was imported but system-ui was used because it was closer to the design
+*Font Awesome used for icons
 
 # DigispaceApp
 
