@@ -1,3 +1,16 @@
+# Live app hosted at https://1metalhead.github.io/Frontend-Developer-Task/
+
+# Output from localhost
+![Screenshot 2023-03-10 134321](https://user-images.githubusercontent.com/87149638/224260471-c0af0dd0-6925-4791-9eb9-81048803dcae.png)
+
+# Developed on screen with resolution 1920 X 1080
+
+# Rota font was imported but system-ui was used because it was closer to the design
+
+# Font Awesome used for icons
+
+
+
 # DigispaceApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
